@@ -1,1 +1,1 @@
-Hello,This is a first repo in git hub 
+Hello, This is  a first repo in github
